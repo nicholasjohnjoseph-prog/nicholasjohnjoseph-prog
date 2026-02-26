@@ -13,11 +13,13 @@ Feel free to DM or email me whenever 👍
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#📖Published Research: 
+📖Published Research: 
 
 
-#📚Research Tests: 
+📚Research Tests: 
 
+
+😎Major Projects:
 
 
 
