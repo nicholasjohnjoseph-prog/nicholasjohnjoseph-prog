@@ -1,4 +1,4 @@
-##💫About Me:
+💫About Me:
 
 Hi,I am currently a student at Flower Mound High who is very interested in computer science and AI. At this time I am doing reaserch in Machine Learning to do things like predict the stock market or help find more solutions to cancer and global warming. In most of reaserch you will see that I analyze human behaviors to help the algorithms make conclusions.
 
